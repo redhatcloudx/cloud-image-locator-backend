@@ -1,0 +1,12 @@
+{
+  "aws": [
+    {
+      "name": "RHEL9",
+      "description": "SOME MORE DATA"
+    },
+    {
+      "name": "RHEL8",
+      "description": "SOME MORE DATA"
+    }
+  ]
+}
